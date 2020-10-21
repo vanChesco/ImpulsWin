@@ -1,0 +1,3 @@
+F:\!Coding\!Nauka\ImpulsWin\x64\Release\ImpulsWin.MyForm.resources
+F:\!Coding\!Nauka\ImpulsWin\x64\Release\ImpulsWin.vcxproj.GenerateResource.cache
+F:\!Coding\!Nauka\ImpulsWin\x64\Release\ImpulsWin.exe
